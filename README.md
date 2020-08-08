@@ -1,16 +1,21 @@
-### Hi there 👋
+### 🇺🇸 Hi, folks - 🇧🇷 Olar, você aí
 
-<!--
-**Turao/Turao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 How to reach me:
+**Twitter:** [@lenzarthur1](https://twitter.com/lenzarthur1)
+**Email:** lenz.arthur@gmail
 
-Here are some ideas to get you started:
+### What's this all about
+You'll see a many repos here - maybe even too many (is that even possible?). Likely none will be "presentable".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you came to my profile looking for that beautiful, pretty portfolio-worth side-project, I'm sorry to disapoint you. There are none of those here.
+
+I like having **at least** some level of practice/knowledge before working with a new programming language, framework, or concept in a "real-life" Project. **That's what these repos are for.**
+
+![credits-to-the-practical-dev](https://github.com/Turao/Turao/blob/master/credits-to-thepracticaldev-small.jpg)
+
+Feel free to dive in and take a look - and if you find something interesting, **you can always reach out to me so we can discuss more about it**.
+
+### Bookmarks
+- Concepts
+- Frameworks & Tools
+- Meta-Learning
