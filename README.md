@@ -6,8 +6,8 @@
 **Twitter:** [@lenzarthur1](https://twitter.com/lenzarthur1)
 **Email:** lenz.arthur@gmail
 
-### What's this all about
-![credits-to-the-practical-dev](https://github.com/Turao/Turao/blob/master/credits-to-thepracticaldev-small.jpg)
+[<img align="right" src="https://github.com/Turao/Turao/blob/master/credits-to-thepracticaldev-small.jpg" alt="credits-to-the-practical-dev"/>](https://github.com/Turao/Turao/blob/master/credits-to-thepracticaldev-small.jpg)
+
 
 ### Bookmarks
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
