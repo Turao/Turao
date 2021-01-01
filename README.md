@@ -10,6 +10,7 @@
 
 
 ### Bookmarks
+- [The Coding Career Handbook](https://www.learninpublic.org/) by swyx
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by getify
 - [Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/) by Cedric Chin
