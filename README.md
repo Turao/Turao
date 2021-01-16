@@ -6,10 +6,11 @@
 **Twitter:** [@lenzarthur1](https://twitter.com/lenzarthur1)
 **Email:** lenz.arthur@gmail
 
-[<img align="right" src="https://github.com/Turao/Turao/blob/master/credits-to-thepracticaldev-small.jpg" alt="credits-to-the-practical-dev"/>](https://github.com/Turao/Turao/blob/master/credits-to-thepracticaldev-small.jpg)
+[<img title="git clone all repos!" alt="Changing stuff and seeing what happens" align="right" src="https://github.com/Turao/Turao/blob/master/credits-to-thepracticaldev-small.jpg" alt="credits-to-the-practical-dev"/>](https://github.com/Turao/Turao/blob/master/credits-to-thepracticaldev-small.jpg)
 
 
 ### Bookmarks
+> a.k.a books / blog posts I really REALLY enjoyed reading and think you will too :smiley:
 - [The Coding Career Handbook](https://www.learninpublic.org/) by swyx
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by getify
