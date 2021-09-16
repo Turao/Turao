@@ -15,7 +15,7 @@
 ## Job Offering
 
 - Why me? How does my profile fits this offering?
-- Will I be working abroad (i.e. from Brazil) or should I be relocate to another location?
+- Will I be working abroad (i.e. from Brazil) or should I relocate to another location?
   - If relocating, which costs are covered by the company? Are there any relocation costs - not covered by the company - I should be aware of?
 - What's the pay range? 
   - Other than base compensation: Are there any perks, benefits, equity, ...?
