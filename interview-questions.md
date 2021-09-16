@@ -8,8 +8,8 @@
 - When was the last time you had to go through a crunch?
 - Are you (interviewers) part of the team?
   - If not, why is the interviewing process not being handled by the team members themselves? Is this a cross-company policy?
-  - If so, how's the team structured? How many layers of indirection from CEO to the team are there?
-- Are there other foreigners in the company? How is the distribution across the company? 
+  - If so, how's the team structured? How many layers of indirection between leadership and the team are there?
+- Are there other foreigners in the company? How is the distribution across the company?
 
 
 ## Job Offering
