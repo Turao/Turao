@@ -59,4 +59,6 @@
 - How do you organize your onboarding process?
 - Which tasks do you find more useful for new developers to take during the onboarding phase and why?
 - How's the culture for knowledge transfer and learning inside the company?
+  - How much time can be spent for personal growth?
+  - Do we get any budget for personal growth?
 - What do you do to avoid knowledge silos?
