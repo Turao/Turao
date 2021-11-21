@@ -5,6 +5,11 @@
 - Do you have a career ladder?
 - Do you have performance reviews? 
   - If so, how frequently? How progress is tracked/evaluated inside the company (developer-wise)?
+- Feedback culture:
+  - Do directs give feedback to managers? How?
+  - Do peers give feedback to each other? How?
+  - Do you have company-wide surveys?
+  - How frequent are these feedback rounds?
 - When was the last time you had to go through a crunch?
 - Are you (interviewers) part of the team?
   - If not, why is the interviewing process not being handled by the team members themselves? Is this a cross-company policy?
