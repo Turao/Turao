@@ -45,7 +45,8 @@
 - Do you have dedicated QAs? Do you test your own changes? How do you approach acceptance/functional testing?
 - Do you have a process for handling technical debt?
 - How is documentation organized across the company? Is there a central place to find the necessary information? How do you avoid old/stale/deprecated information/documentation.
-- Do you have dedicated support and operations teams to handle issues first? Do you have an on-call policy?
+- Do you have dedicated support and operations teams to handle issues first? 
+  - Do you have an on-call policy? Please describe your on-call policy if so.
 
 
 ## Onboarding & Learning
