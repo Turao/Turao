@@ -19,6 +19,7 @@
   - If relocating, which costs are covered by the company? Are there any relocation costs - not covered by the company - I should be aware of?
 - What's the pay range? 
   - Other than base compensation: Are there any perks, benefits, equity, ...?
+    - For private companies: is there any profit sharing (and if so, what's the median)?
 - What would be my main responsibilities? 
 
 ## Projects
