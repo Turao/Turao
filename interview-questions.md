@@ -32,6 +32,7 @@
 ## Methodologies
 
 - Do you follow any of the following methodologies, practices: Agile, Lean, SCRUM, Kanban, ...?
+- Please describe the interaction between Engineers and other ICs (e.g. POs, PMs, designers, data scientists, ...).
 - Tell me something you don't like about your current process.
 
 ## Quality Control
