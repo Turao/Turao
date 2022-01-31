@@ -16,9 +16,9 @@ Feel free to dive in and take a look - **you can always reach out if you find an
 - Books
   - [The Coding Career Handbook](https://www.learninpublic.org/) by swyx
   - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
+  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by getify
   - [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann
 - Blog Posts
-  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by getify
   - [Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/) by Cedric Chin
   - [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/) by Dan Abramov
   - [Better Software Design with Application Layer Use Cases | Enterprise Node.js + TypeScript](https://khalilstemmler.com/articles/enterprise-typescript-nodejs/application-layer-use-cases/) by Khalil Stemmler
