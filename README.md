@@ -19,3 +19,4 @@ Feel free to dive in and take a look - **you can always reach out if you find an
 - [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/) by Dan Abramov
 - [Better Software Design with Application Layer Use Cases | Enterprise Node.js + TypeScript](https://khalilstemmler.com/articles/enterprise-typescript-nodejs/application-layer-use-cases/) by Khalil Stemmler
 - [Advancing Enterprise DDD](http://scabl.blogspot.com/p/advancing-enterprise-ddd.html) by John Sullivan
+- [Are we punishing our top performers?](https://leaddev.com/culture-engagement-motivation/are-we-punishing-our-top-performers) by Jason Lengstorf
