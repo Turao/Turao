@@ -10,12 +10,14 @@
   - Do peers give feedback to each other? How?
   - Do you have company-wide surveys?
   - How frequent are these feedback rounds?
-- When was the last time you had to go through a crunch?
+- Are there other foreigners in the company? How is the distribution across the company?
 - Are you (interviewers) part of the team?
   - If not, why is the interviewing process not being handled by the team members themselves? Is this a cross-company policy?
-  - If so, how's the team structured? How many layers of indirection between leadership and the team are there?
-- Are there other foreigners in the company? How is the distribution across the company?
-
+  - If so:
+    - How's the team structured? How is the senior/mid/junior distribution?
+    - How much of your time would you say you dedicate to meetings?
+    - How many layers of indirection between leadership and the team are there?
+    - When was the last time you had to go through a crunch?
 
 ## Job Offering
 
