@@ -25,6 +25,7 @@
 - What do you think it's the company/product's main obstacle(s)? (a.k.a. what is preventing from growing / growing even more)?
 - What are the company plans for this product for the next year? And for the next 5 years (long-term vision)?
 - What is the best part of your product?
+- How do you assess between quality and speed (time-to-market)? When do you pick one over the other?
 
 ## Job Offering
 
