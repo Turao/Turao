@@ -2,9 +2,9 @@
 
 Feel free to dive in and take a look - **you can always reach out if you find anything interesting here**.
 - 💻 Software Engineer @ Uber
-- 📝 I write code using (mostly): `Typescript`, `React`, `NodeJS`, `Java`, and `Spring-Boot`
-  - Also doing lots of infra/ops with `Docker`, `Kubernetes`, `AWS` and `Terraform`
-  - Learning `Go` on the side
+  - Previously @ SAP
+    -  Writing code with `Typescript`, `React`, `NodeJS`, `Java`, and `Spring-Boot`
+    - Also doing lots of infra/ops with `Docker`, `Kubernetes`, `AWS` and `Terraform`
 - 📫 Reach out @ [Twitter](https://twitter.com/lenzarthur1) or send me an [email](mailto:lenz.arthur+github@gmail.com)
 
 [<img title="git clone all repos!" alt="Changing stuff and seeing what happens" align="right" src="https://github.com/Turao/Turao/blob/master/credits-to-thepracticaldev-small.jpg" alt="credits-to-the-practical-dev"/>](https://github.com/Turao/Turao/blob/master/credits-to-thepracticaldev-small.jpg)
