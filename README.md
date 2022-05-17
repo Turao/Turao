@@ -1,7 +1,7 @@
 ### 🇺🇸 Hi, folks - 🇧🇷 Olar, você aí
 
 Feel free to dive in and take a look - **you can always reach out if you find anything interesting here**.
-- 💻 Software Engineer @ SAP
+- 💻 Software Engineer @ Uber
 - 📝 I write code using (mostly): `Typescript`, `React`, `NodeJS`, `Java`, and `Spring-Boot`
   - Also doing lots of infra/ops with `Docker`, `Kubernetes`, `AWS` and `Terraform`
   - Learning `Go` on the side
