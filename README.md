@@ -12,19 +12,24 @@ Feel free to dive in and take a look - **you can always reach out if you find an
 
 
 ### Bookmarks
-> a.k.a books / blog posts / channels I really REALLY enjoy(ed) and think you will too :smiley:
+> a.k.a. books / blog posts / channels I really REALLY enjoyed and think you will too :smiley:
 
-- Books
-  - [The Coding Career Handbook](https://www.learninpublic.org/) by swyx
-  - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
-  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by getify
-  - [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann
-- Blog Posts
-  - [Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/) by Cedric Chin
-  - [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/) by Dan Abramov
-  - [Better Software Design with Application Layer Use Cases | Enterprise Node.js + TypeScript](https://khalilstemmler.com/articles/enterprise-typescript-nodejs/application-layer-use-cases/) by Khalil Stemmler
-  - [Advancing Enterprise DDD](http://scabl.blogspot.com/p/advancing-enterprise-ddd.html) by John Sullivan
-  - [Are we punishing our top performers?](https://leaddev.com/culture-engagement-motivation/are-we-punishing-our-top-performers) by Jason Lengstorf
-- Channels
-  - [Christopher Okhravi](https://www.youtube.com/c/ChristopherOkhravi) for Design Patterns
-  - [CodeOpinion](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw) for Software Architecture
+#### Books
+- [The Coding Career Handbook](https://www.learninpublic.org/) by swyx
+- [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by getify
+- [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann
+- [Building Event-Driven Microservices](https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/) by Adam Bellemare
+
+> you can also follow me on [Goodreads](https://www.goodreads.com/user/show/92200377-arthur-lenz) 📚
+
+#### Blog Posts
+- [Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/) by Cedric Chin
+- [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/) by Dan Abramov
+- [Better Software Design with Application Layer Use Cases | Enterprise Node.js + TypeScript](https://khalilstemmler.com/articles/enterprise-typescript-nodejs/application-layer-use-cases/) by Khalil Stemmler
+- [Advancing Enterprise DDD](http://scabl.blogspot.com/p/advancing-enterprise-ddd.html) by John Sullivan
+- [Are we punishing our top performers?](https://leaddev.com/culture-engagement-motivation/are-we-punishing-our-top-performers) by Jason Lengstorf
+
+#### Channels
+- [Christopher Okhravi](https://www.youtube.com/c/ChristopherOkhravi) for Design Patterns
+- [CodeOpinion](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw) for Software Architecture
