@@ -2,7 +2,7 @@
 
 Feel free to dive in and take a look - **you can always reach out if you find anything interesting here**.
 - 💻 Software Engineer @ Uber
-  - Now using mostly `Go`
+  - Now mostly using `Go`
   - Previously @ SAP
     - Writing code with `Typescript`, `React`, `NodeJS`, `Java`, and `Spring-Boot`
     - Also doing lots of infra/ops with `Docker`, `Kubernetes`, `AWS` and `Terraform`
