@@ -4,7 +4,7 @@
 
 - Do you have a career ladder?
 - Do you have performance reviews? 
-  - If so, how frequently? How progress is tracked/evaluated inside the company (developer-wise)?
+  - If so, how frequently? How is progress tracked/evaluated inside the company (developer-wise)?
 - Feedback culture:
   - Do directs give feedback to managers? How?
   - Do peers give feedback to each other? How?
@@ -22,25 +22,25 @@
 
 ## Business & Product
 
-- What do you think it's the company/product's main obstacle(s)? (a.k.a. what is preventing from growing / growing even more)?
-- What are the company plans for this product for the next year? And for the next 5 years (long-term vision)?
+- What do you think are the company/product's main obstacles (a.k.a. what is preventing it from growing / growing even more?)
+- What are the company's plans for this product for the next year? And for the next 5 years (long-term vision)?
 - What is the best part of your product?
 - How do you assess between quality and speed (time-to-market)? When do you pick one over the other?
 
 ## Job Offering
 
-- Why me? How does my profile fits this offering?
+- Why me? How does my profile fit this offering?
 - Will I be working abroad (i.e. from Brazil) or should I relocate to another location?
-  - If relocating, which costs are covered by the company? Are there any relocation costs - not covered by the company - I should be aware of?
+  - If relocating, which costs are covered by the company? Are there any relocation costs - not covered by the company - that I should be aware of?
 - What's the pay range? 
   - Other than base compensation: Are there any perks, benefits, equity, ...?
-    - For private companies: is there any profit sharing (and if so, what's the median)?
+    - For private companies: Is there any profit sharing (and if so, what's the median)?
 - What would be my main responsibilities? 
 
 ## Projects
 
 ### Microservices
-- Do projects follow some kind of template? How do you avoid an evergrowing list of programming languages, frameworks, concepts in general... (and if this is something you worry about).
+- Do projects follow some kind of template? How do you avoid an ever-growing list of programming languages, frameworks, concepts in general... (and if this is something you worry about).
 - How much freedom do teams get when developing their solutions/microservices?
 - How many microservices per team?
 - How many engineers per project on average? How many projects per quarter/half?
@@ -54,13 +54,13 @@
 ## Quality Control
 
 - Tell me about your CI. What tools do you use?
-- This will probably differ from team to team... Is there a common ground (e.g. central registry for all project artifacts).
+- This will probably differ from team to team... Is there a common ground (e.g. central registry for all project artifacts)?
   - If so, is there a team to support CI issues ("how much time do you think teams spend on the ops part of DevOps")?
 - Could you describe your process for changes? From the client's requirement to production.
 - How do you keep up to date with security vulnerabilities, licensing, ...?
 - Do you have dedicated QAs? Do you test your own changes? How do you approach acceptance/functional testing?
 - Do you have a process for handling technical debt?
-- How is documentation organized across the company? Is there a central place to find the necessary information? How do you avoid old/stale/deprecated information/documentation.
+- How is documentation organized across the company? Is there a central place to find the necessary information? How do you avoid old/stale/deprecated information/documentation?
 - Do you have dedicated support and operations teams to handle issues first? 
   - Do you have an on-call policy? Please describe your on-call policy if so.
 
@@ -70,6 +70,14 @@
 - How do you organize your onboarding process?
 - Which tasks do you find more useful for new developers to take during the onboarding phase and why?
 - How's the culture for knowledge transfer and learning inside the company?
-  - How much time can be spent for personal growth?
+  - How much time can be spent on personal growth?
   - Do we get any budget for personal growth?
 - What do you do to avoid knowledge silos?
+- 
+
+## AI
+
+- Does the company encourage employees to use AI tools in their work?
+- Does the company consider AI to be a core part of the business strategy, or more of an experimental tool?
+- How does the company assess the impact of AI tools?
+- Which AI tools are engineers allowed to use in the company?
