@@ -41,8 +41,9 @@
 
 ### Microservices
 - Do projects follow some kind of template? How do you avoid an evergrowing list of programming languages, frameworks, concepts in general... (and if this is something you worry about).
-- How much freedom teams get when developing their solutions/microservices?
+- How much freedom do teams get when developing their solutions/microservices?
 - How many microservices per team?
+- How many engineers per project on average? How many projects per quarter/half?
 
 ## Methodologies
 
