@@ -31,5 +31,6 @@ Feel free to dive in and take a look - **you can always reach out if you find an
 - [Are we punishing our top performers?](https://leaddev.com/culture-engagement-motivation/are-we-punishing-our-top-performers) by Jason Lengstorf
 
 #### Channels
+- [DeveloperVoices](https://www.youtube.com/@DeveloperVoices)
 - [Christopher Okhravi](https://www.youtube.com/c/ChristopherOkhravi) for Design Patterns
 - [CodeOpinion](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw) for Software Architecture
