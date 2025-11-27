@@ -30,6 +30,9 @@ Feel free to dive in and take a look - **you can always reach out if you find an
 - [Advancing Enterprise DDD](http://scabl.blogspot.com/p/advancing-enterprise-ddd.html) by John Sullivan
 - [Are we punishing our top performers?](https://leaddev.com/culture-engagement-motivation/are-we-punishing-our-top-performers) by Jason Lengstorf
 
+#### PRs
+- [DWARF support for macOS and Linux](https://github.com/ocaml/ocaml/pull/14369)
+
 #### Channels
 - [DeveloperVoices](https://www.youtube.com/@DeveloperVoices)
 - [Christopher Okhravi](https://www.youtube.com/c/ChristopherOkhravi) for Design Patterns
